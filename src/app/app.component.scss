@@ -1,5 +1,20 @@
 .mat-card-simples{
-  max-width: 300px;
-  background-color: aliceblue;
+  max-width: 700px;
+  background-color: #d4cefa;
   margin-top: 10px;
 }
+
+.mat-form-principal{
+  margin-left: 5px;
+}
+
+.centralizado {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+mat-card-footer{
+  margin-bottom: 1px;
+}
+
